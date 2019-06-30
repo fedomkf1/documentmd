@@ -1,0 +1,26 @@
+{
+  "name": "documentmd",
+  "version": "1.0.0",
+  "description": "documents in md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedomkf1/documentmd.git"
+  },
+  "keywords": [
+    "md",
+    "markdown",
+    "documentatios",
+    "documents",
+    "info"
+  ],
+  "author": "Federico Peralta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fedomkf1/documentmd/issues"
+  },
+  "homepage": "https://github.com/fedomkf1/documentmd#readme"
+}
