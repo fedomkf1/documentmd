@@ -1,6 +1,6 @@
 {
   "name": "documentmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "documents in md",
   "main": "index.js",
   "scripts": {
